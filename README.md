@@ -2,7 +2,7 @@
 
 **Profile Page**<br>
 This is the profile page for any student or anyone.<br><br>
-<img src="Images/.PNG" width=750px align=center><br><br>
+<img src="Images/profile.PNG" width=750px align=center><br><br>
 
 # Slide Show Home Page
 This is a slideshow created using HTML, CSS and JavaScript.<br><br>
